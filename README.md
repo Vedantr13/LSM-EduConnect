@@ -10,7 +10,7 @@ platform also features analytics and a plagiarism checker
 integration.
 
 ## Homepage Links
- [Visite website] (https://ankit-dsu.github.io/Educonnect/ "LCO")
+ [Visite website](https://ankit-dsu.github.io/Educonnect/ "LCO")
 
  ## Some Snapshots 
  

@@ -1,5 +1,5 @@
 # Educonnect
-##EduConnect's prototype is a web-based platform with an intuitive
+## EduConnect's prototype is a web-based platform with an intuitive
 and visually appealing user interface. Users can create accounts,
 submit projects, browse, rate, and review projects, engage in
 discussions, and personalize their profiles. A sophisticated search

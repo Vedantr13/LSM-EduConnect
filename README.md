@@ -7,4 +7,10 @@ discussions, and personalize their profiles. A sophisticated search
 engine enables project discovery, while a real-time chat system
 and notifications keep users informed of interactions. The
 platform also features analytics and a plagiarism checker
-integration..
+integration.
+
+## Homepage Links
+ [Visite website] (https://ankit-dsu.github.io/Educonnect/ "LCO")
+
+ ## Some Snapshots 
+ 

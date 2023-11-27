@@ -12,5 +12,6 @@ integration.
 ## Homepage Links
  [Visite website](https://ankit-dsu.github.io/Educonnect/ "LCO")
 
- ## Some Snapshots 
+ ## AWS Deployment Link
+ [Visit website](http://34.235.148.5/ "LCO")   
  

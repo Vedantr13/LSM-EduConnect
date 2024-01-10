@@ -13,7 +13,7 @@ integration.
 
 ## Homepage Links
 
-[Visite website](https://https://ankit-dsu.github.io/SIH-PROD// "LCO")
+[Visite website](https://ankit-dsu.github.io/SIH-PROD// "LCO")
 
 ## AWS Deployment Link
 

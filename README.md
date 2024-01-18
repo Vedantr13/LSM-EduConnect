@@ -17,6 +17,6 @@ integration.ok
 
 ## AWS Deployment Link
 
-[Visit website](http://34.235.148.5/ "LCO")
+[Visit website](http://35.171.85.147// "LCO")
 
 ## Some Snapshots

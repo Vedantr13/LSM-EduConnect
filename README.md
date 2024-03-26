@@ -19,4 +19,10 @@ integration.ok
 
 [Visit website](http://54.225.43.191// "LCO")
 
-## Some Snapshots
+## Business Canva Model
+
+### Key Partners
+<p>Educational institutions (schools, colleges, universities)
+Tech and software development companies for chat system and plagiarism checker integration
+Project mentors or experts for reviews and ratings.
+</p>

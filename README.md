@@ -21,5 +21,4 @@ integration.ok
 
 ## Business Canva Model
 
-### Key Partners
 ![business canva model](https://github.com/Ankit-Dsu/LSM-EduConnect/assets/141424013/dc740359-1805-4ca4-b8b3-e658e38a3c9c)

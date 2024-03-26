@@ -13,7 +13,7 @@ integration.ok
 
 ## Homepage Links
 
-[Visite website](https://ankit-dsu.github.io/SIH-PROD// "LCO")
+[Visite website](https://ankit-dsu.github.io/LSM-EduConnect// "LCO")
 
 ## AWS Deployment Link
 

@@ -25,12 +25,10 @@ integration.ok
 
 ## JOURNEY OF EDUCONNECT
 
-<p>Once upon a time, in the bustling city of Bengaluru, a groundbreaking platform named EduConnect was established in 2023. This platform aimed to unite the vast universe of educational resources, offering an array of engaging and enlightening materials to students.
-EduConnect, led by the visionary of Aman Raj & Ankit Singh, recognized the need to form Key Partnerships with educational institutions, tech and software development firms for seamless chat and plagiarism checker integration, and project mentors for invaluable reviews and ratings.
-As they embarked on their journey, the team focused on several Key Activities: 
-Relentlessly refining the platform, managing user accounts and data protection, enhancing search engine optimization and analytics, and moderating content for a superior learning experience. These efforts were aided by the recruitment of talented Web Development Teams and investment in a Data Management System.
-EduConnect's Value Propositions set it apart from the competition: a user-friendly interface, project submission and rating, personalized user profiles, and an advanced search engine, along with real-time chat and plagiarism checker features.
-Customer Relationships thrived with self-service account creation and project submission, personalized user profiles, community engagement, and a dedicated customer support and feedback channel.
-To reach the masses, EduConnect's Marketing and Promotional Campaigns unfolded on social media, educational forums, and strategic partnerships. The platform's audience spans the spectrum of Students, Educators, and Mentors, reaching even the most ardent Project Enthusiasts and Freelancers.
-EduConnect's Cost Structure includes platform development and maintenance, hosting and server costs, software licensing fees, marketing and promotional expenses, and customer support and moderation team salaries.
-</p>
+<p>This platform aimed to unite the vast universe of educational resources, offering an array of engaging and enlightening materials to students.</p>
+<h2>As they embarked on their journey, the team focused on several Key Activities:</h2> 
+<h3>Relentlessly refining the platform, managing user accounts and data protection, enhancing search engine optimization and analytics, and moderating content for a superior learning experience. These efforts were aided by the recruitment of talented Web Development Teams and investment in a Data Management System.</h3>
+<h3>EduConnect's Value Propositions set it apart from the competition: a user-friendly interface, project submission and rating, personalized user profiles, and an advanced search engine, along with real-time chat and plagiarism checker features.</h3>
+<h3>Customer Relationships thrived with self-service account creation and project submission, personalized user profiles, community engagement, and a dedicated customer support and feedback channel.</h3>
+<h3>To reach the masses, EduConnect's Marketing and Promotional Campaigns unfolded on social media, educational forums, and strategic partnerships. The platform's audience spans the spectrum of Students, Educators, and Mentors, reaching even the most ardent Project Enthusiasts and Freelancers.</h3>
+<h3>EduConnect's Cost Structure includes platform development and maintenance, hosting and server costs, software licensing fees, marketing and promotional expenses, and customer support and moderation team salaries.</h3>
